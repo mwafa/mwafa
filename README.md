@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ### Learning:
 ![](icons/golang.png)
-![](icons/java-32x32.png)
+![](icons/java.png)
 
 <!-- ### Previously worked with: -->
 
