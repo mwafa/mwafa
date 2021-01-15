@@ -64,4 +64,10 @@ Here are some ideas to get you started:
 
 ---
 
+<!-- Default Statcounter code for My personal Github Page http://github.com -->
+<img src="https://c.statcounter.com/12462289/0/f9dae241/0/" alt="">
+<!-- End of Statcounter Code -->
+
+<!--
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mwafa.mwafa)
+-->
