@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 [![Wafa's github stats](https://github-readme-stats.vercel.app/api?username=mwafa&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![CodeWars Score](https://www.codewars.com/users/mwafa/badges/large)
+
 ### Social Media:
 
 [![](icons/github.png)](https://github.com/mwafa)
