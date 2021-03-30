@@ -1,13 +1,30 @@
+### Hi there 👋
+
+I am Wafa, passionate to create something.
+
+---
+
+### 🔭 What I’m currently working on
+
+I'm currently working on a web technology software development for manage internet of things data and multiple artificial intelligence apps with several tools like docker, github actions etc.
+
+### ✔️ Past Projects
+
+These are some of my past projects I did:
+
+- **create-gitnore**, to create .gitignore default file from github/gitignore publish on https://www.npmjs.com/package/create-gitnore
+- **dta**, unofficial latex template for describe bachelor thesis at the Universitas Gadjah Mada (https://github.com/mwafa/dta)
+
+### 🗯️ Bonus
+
+Please reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-wafa-587440126/)
 
 <!--
-
-### Hi there 👋
 
 **mwafa/mwafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,10 +32,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
----
-
+<!--
 [![Wafa's github stats](https://github-readme-stats.vercel.app/api?username=mwafa&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![CodeWars Score](https://www.codewars.com/users/mwafa/badges/large)
@@ -64,7 +80,4 @@ Here are some ideas to get you started:
 
 <!-- ### Previously worked with: -->
 
----
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mwafa.mwafa)
-
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mwafa.mwafa) -->
