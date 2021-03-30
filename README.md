@@ -17,7 +17,15 @@ These are some of my past projects I did:
 
 ### 🗯️ Bonus
 
-Please reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-wafa-587440126/)
+Please reach me on my social media
+
+- [LinkedIn](https://www.linkedin.com/in/muhammad-wafa-587440126/)
+- [Codewars](https://www.codewars.com/users/mwafa/)\
+  ![badge](https://www.codewars.com/users/mwafa/badges/small)
+
+---
+
+[![Wafa's github stats](https://github-readme-stats.vercel.app/api?username=mwafa&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
@@ -35,7 +43,6 @@ Here are some ideas to get you started:
   -->
 
 <!--
-[![Wafa's github stats](https://github-readme-stats.vercel.app/api?username=mwafa&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![CodeWars Score](https://www.codewars.com/users/mwafa/badges/large)
 
