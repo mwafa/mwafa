@@ -6,7 +6,7 @@ I am Wafa, passionate to create something.
 
 ### 🔭 What I’m currently working on
 
-I'm currently working on a web technology software development for manage internet of things data and multiple artificial intelligence apps with several tools like docker, github actions etc.
+I'm currently working on a web technology software development for manage internet of things data and multiple artificial intelligence container apps with several tools like docker, python, nodeJs, github actions etc.
 
 ### ✔️ Past Projects
 
