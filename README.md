@@ -15,7 +15,7 @@ These are some of my past projects I did:
 - **create-gitnore**, to create .gitignore default file from github/gitignore publish on https://www.npmjs.com/package/create-gitnore
 - **dta**, unofficial latex template for describe bachelor thesis at the Universitas Gadjah Mada (https://github.com/mwafa/dta)
 
-### 🗯️ Bonus
+### 💬 Bonus
 
 Please reach me on my social media
 
