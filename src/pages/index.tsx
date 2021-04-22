@@ -1,4 +1,4 @@
-import { Box, Container, Flex, Heading, Text } from "@chakra-ui/layout"
+import { Box, Container, Flex, Heading, Link } from "@chakra-ui/layout"
 
 import Head from "next/head"
 import { Image } from "@chakra-ui/image"
@@ -18,15 +18,18 @@ const Index: NextPage = () => {
             mr="3"
             shadow="lg"
             src="//github.com/mwafa.png"
+            fallbackSrc="https://via.placeholder.com/100ya"
           />
           <Box>
             <Heading pb={2} fontSize={["md", "lg"]}>
               Muhammad Wafa
             </Heading>
-            <Image
-              h={[4, 5]}
-              src="https://www.codewars.com/users/mwafa/badges/micro"
-            />
+            <Link href="https://www.codewars.com/users/mwafa">
+              <Image
+                h={[4, 5]}
+                src="https://www.codewars.com/users/mwafa/badges/micro"
+              />
+            </Link>
           </Box>
         </Flex>
       </Box>
