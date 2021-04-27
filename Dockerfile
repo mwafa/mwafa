@@ -4,6 +4,8 @@ WORKDIR /var/lib/ghost
 
 ENTRYPOINT ["docker-entrypoint.sh"]
 
-EXPOSE 2368
+ENV PORT 2368
+
+EXPOSE PORT
 
 CMD ["node", "current/index.js"]
