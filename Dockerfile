@@ -6,6 +6,6 @@ ENTRYPOINT ["docker-entrypoint.sh"]
 
 ENV PORT 2368
 
-EXPOSE PORT
+EXPOSE $PORT
 
 CMD ["node", "current/index.js"]
