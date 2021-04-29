@@ -7,5 +7,5 @@ ENTRYPOINT ["docker-entrypoint.sh"]
 EXPOSE 2368
 
 WORKDIR /var/lib/ghost/versions/3.41.9/
-RUN npm install mysql2
+RUN npm install mysql2 && npm audit fix
 CMD ["node", "index.js"]
