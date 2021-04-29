@@ -4,8 +4,8 @@ WORKDIR /var/lib/ghost
 
 ENTRYPOINT ["docker-entrypoint.sh"]
 
-ENV PORT 2368
+EXPOSE 2368
 
-EXPOSE $PORT
+RUN npm install -g pg
 
 CMD ["node", "current/index.js"]
