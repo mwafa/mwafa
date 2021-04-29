@@ -1,4 +1,4 @@
-FROM ghost:3-alpine
+FROM ghost:3.41.9-alpine
 
 WORKDIR /var/lib/ghost
 
@@ -6,6 +6,6 @@ ENTRYPOINT ["docker-entrypoint.sh"]
 
 EXPOSE 2368
 
-RUN npm install -g pg
+WORKDIR /var/lib/ghost/versions/3.41.9/
 
-CMD ["node", "current/index.js"]
+CMD ["node", "index.js"]
