@@ -16,6 +16,17 @@ These are some of my past personal projects I did:
 - **dta**, unofficial latex template for describe bachelor thesis at the Universitas Gadjah Mada (https://github.com/mwafa/dta)
 - **share-me**, web based file and folder sharing using wired/wireless comunication with golang (https://github.com/mwafa/share-me)
 
+### 🛠 Tech Stacks
+
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
+<a href="https://www.golang.org/" title="Golang"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/go.svg" alt="Golang" width="21px" height="21px"></a>
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
+<a href="https://www.docker.com/" title="docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
+<a href="https://github.com/" title="Github"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/github-icon.svg" alt="Github" width="21px" height="21px"></a>
+<a href="https://about.gitlab.com/" title="Gitlab"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/gitlab.svg" alt="Gitlab" width="21px" height="21px"></a>
+
 ### 💬 Bonus
 
 Please reach me on my social media
@@ -58,7 +69,6 @@ Here are some ideas to get you started:
 [![](icons/docker.png)](https://hub.docker.com/u/mwafa)
 
 ### Currently working with:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
