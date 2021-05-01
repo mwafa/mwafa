@@ -8,12 +8,13 @@ I am Wafa, passionate to create something.
 
 I'm currently working on a web technology software development for manage internet of things data and multiple artificial intelligence container apps with several tools like docker, python, nodeJs, github actions etc.
 
-### ✔️ Past Projects
+### ✔️ Past Personal Projects
 
-These are some of my past projects I did:
+These are some of my past personal projects I did:
 
 - **create-gitnore**, to create .gitignore default file from github/gitignore publish on https://www.npmjs.com/package/create-gitnore
 - **dta**, unofficial latex template for describe bachelor thesis at the Universitas Gadjah Mada (https://github.com/mwafa/dta)
+- **share-me**, web based file and folder sharing using wired/wireless comunication with golang (https://github.com/mwafa/share-me)
 
 ### 💬 Bonus
 
