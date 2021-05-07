@@ -4,13 +4,9 @@ I am Wafa, passionate to create something.
 
 ---
 
-### 🔭 What I’m currently working on
+### ✔️ Side Projects
 
-I'm currently working on a web technology software development for manage internet of things data and multiple artificial intelligence container apps with several tools like docker, python, nodeJs, github actions etc.
-
-### ✔️ Past Side Projects
-
-These are some of my past side projects I did:
+These are some of my side projects I did:
 
 - **create-gitnore**, to create .gitignore default file from github/gitignore publish on https://www.npmjs.com/package/create-gitnore
 - **dta**, unofficial latex template for describe bachelor thesis at the Universitas Gadjah Mada (https://github.com/mwafa/dta)
