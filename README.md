@@ -8,6 +8,7 @@ I am Wafa, passionate to create something.
 
 These are some of my side projects I did:
 
+- **jasmine**, wedding invitation template with NextJs and Chakra-UI on https://jasmine.vercel.app
 - **create-gitnore**, to create .gitignore default file from github/gitignore publish on https://www.npmjs.com/package/create-gitnore
 - **dta**, unofficial latex template for describe bachelor thesis at the Universitas Gadjah Mada (https://github.com/mwafa/dta)
 - **share-me**, web based file and folder sharing using wired/wireless comunication with golang (https://github.com/mwafa/share-me)
