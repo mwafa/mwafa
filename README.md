@@ -34,7 +34,9 @@ Please reach me on my social media
 
 ---
 
-[![Wafa's github stats](https://github-readme-stats.vercel.app/api?username=mwafa&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.buymeacoffee.com/mwafa"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mwafa&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff"></a>
+
+<!-- [![Wafa's github stats](https://github-readme-stats.vercel.app/api?username=mwafa&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 
